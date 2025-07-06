@@ -16,7 +16,7 @@ FLAN-UL2 from IBM watsonx.ai
 
 ## How to Use
 
-1. Upload your CSV files (train and test) to an IBM Cloud Object Storage bucket.
+1. Upload your CSV files (`train` and `test`) to an IBM Cloud Object Storage bucket.
    
 3. Provide your IBM Cloud:
    
@@ -26,4 +26,4 @@ FLAN-UL2 from IBM watsonx.ai
 
    - bucket name
 
-5. Run the notebook in watsonx.ai to classify the reviews using the few-shot prompt and display predictions.
+5. Run the notebook in [watsonx.ai](https://dataplatform.cloud.ibm.com) to classify the reviews using the few-shot prompt and display predictions.
